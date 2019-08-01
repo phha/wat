@@ -8,10 +8,11 @@ setup(
     author='Philipp Hack',
     author_email='philipp.hack@gmail.com',
     url='http://github.com/phha/wat',
-    version='0.1.2',
+    version='0.1.3',
     license='MIT',
     description='Get short answers from Wolfram Alpha.',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
