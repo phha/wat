@@ -3,7 +3,7 @@
 It's a simple command line tool to get short answers from Wolfram Alpha.
 
 ```
-> wat is the cirumference of the moon`
+> wat is the circumference of the moon`
 about 10921 kilometers
 ```
 
